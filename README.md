@@ -24,7 +24,7 @@
 
 # 프로젝트 정보
 
-- **개발 환경**: Android Studio
+- **개발 환경**: Android Studio, IntelliJ IDEA
 - **사용 언어**: Kotlin
 
 ---
